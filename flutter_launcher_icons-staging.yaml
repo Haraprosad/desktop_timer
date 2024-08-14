@@ -1,0 +1,10 @@
+flutter_launcher_icons:
+  windows:
+    generate: true
+    image_path: "assets/images/staging-icon.png"
+  macos:
+    generate: true
+    image_path: "assets/images/staging-icon.png"
+  linux:
+    generate: true
+    image_path: "assets/images/staging-icon.png"
